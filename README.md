@@ -1,2 +1,8 @@
-# realtime-finance-dashboard
-dvanced real-time dashboard for stocks &amp; crypto using Streamlit, yfinance, and NewsAPI. Interactive charts, technical analytics, portfolio simulator, and live market news sentiment. Handles 1m/5m/15m data quirks, built to impress and solve finance business problems.
+# Advanced Real-Time Financial Analytics Dashboard
+
+Built with Streamlit. Compare stocks/cryptos, visualize technical trends, track portfolio value, and see live financial news sentiment. Handles all Yahoo Finance API data range/interval quirks and is robust for recruiters!
+
+## Run locally:
+1. Clone/download the repo.
+2. Install requirements: `pip install -r requirements.txt`
+3. `streamlit run app.py`
